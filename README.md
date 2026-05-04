@@ -51,7 +51,3 @@ Clone succeeded, but checkout failed.
 ```
 
 **This repository** uses Windows-safe directory names. If you clone a remote that still has unsafe paths, use **WSL2**, **macOS**, or **Linux**, or obtain an archive / branch with compatible paths from the maintainer.
-
-## Course materials
-
-Slides such as `Ultimate AWS Data Engineering Bootcamp.pptx` are separate from the lab code; use them according to your course license.
